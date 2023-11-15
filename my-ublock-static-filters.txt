@@ -1,3 +1,2 @@
-indianexpress.com##div.osv-ad-class
-indianexpress.com##[id='OMIDYAR_HOME_EVENTS']
-indianexpress.com##div.ie-int-campign-ad
+! 2023-11-15 https://indianexpress.com
+indianexpress.com##.osv-ad-class
