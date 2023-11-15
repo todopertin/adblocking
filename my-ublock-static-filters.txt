@@ -3,3 +3,4 @@ indianexpress.com##[class='ie-int-campign-ad']
 indianexpress.com##[class='adboxtop.adsizes']
 indianexpress.com##[class='add-first']
 indianexpress.com##div.add-first
+indianexpress.com##[id='OMIDYAR_HOME_EVENTS']
