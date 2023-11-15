@@ -1,2 +1,3 @@
-indianexpress.com##[class='osv-ad-class']
+indianexpress.com##div.osv-ad-class
 indianexpress.com##[id='OMIDYAR_HOME_EVENTS']
+indianexpress.com##[class='ie-int-campign-ad']
