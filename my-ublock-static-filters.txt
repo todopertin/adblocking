@@ -2,3 +2,4 @@
 indianexpress.com##.osv-ad-class
 indianexpress.com##.ie-int-campign-ad
 indianexpress.com##.adboxtop.adsizes
+indianexpress.com##.add-first
