@@ -1,3 +1,4 @@
 ! 2023-11-15 https://indianexpress.com
 indianexpress.com##.osv-ad-class
-
+indianexpress.com##.ie-int-campign-ad
+indianexpress.com##.adboxtop.adsizes
